@@ -8,6 +8,8 @@
 *://*.404bugs.com/*
 *://*.4k8k.xyz/*
 *://*.796t.com/*
+*://*.bbsmax.com/*
+*://*.bynss.com/*
 *://*.cache.one/*
 *://*.chowdera.com/*
 *://*.code-examples.net/*
@@ -17,6 +19,7 @@
 *://*.cxybb.com/*
 *://*.cxymm.net/*
 *://*.cxyzjd.com/*
+*://*.daimajiaoliu.com/*
 *://*.dovov.com/*
 *://*.editcode.net/*
 *://*.gpd.world/*
@@ -32,9 +35,12 @@
 *://*.itranslater.com/*
 *://*.its201.com/*
 *://*.its203.com/*
+*://*.its301.com/*
 *://*.its304.com/*
 *://*.its401.com/*
 *://*.its404.com/*
+*://*.ittone.ma/*
+*://*.jianboge.com/*
 *://*.jike.in/*
 *://*.jonic.cn/*
 *://*.joyk.com/*
@@ -47,9 +53,11 @@
 *://*.programminghunter.com/*
 *://*.pythonmana.com/*
 *://*.shuzhiduo.com/*
+*://*.songbingjia.com/*
 *://*.stackoom.com/*
 *://*.tl80.cn/*
 *://*.tousu.in/*
+*://*.ttyshi.com/*
 *://*.uo75.com/*
 *://*.vigges.net/*
 *://*.whcsrl.com/*
@@ -57,5 +65,6 @@
 *://*.xinhexinli.com/*
 *://*.xuehua.us/*
 *://*.xyttt.com/*
+*://*.ydbaike.club/*
 *://*.zditect.com/*
 *://*.zuofajingyan.com/*
