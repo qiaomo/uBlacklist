@@ -20,8 +20,10 @@
 *://*.cxymm.net/*
 *://*.cxyzjd.com/*
 *://*.daimajiaoliu.com/*
+*://*.ddeevv.com/*
 *://*.dovov.com/*
 *://*.editcode.net/*
+*://*.flashgene.com/*
 *://*.gpd.world/*
 *://*.howtoip.com/*
 *://*.hunanxiaochi.com/*
@@ -29,10 +31,12 @@
 *://*.icode.best/*
 *://*.icode9.com/*
 *://*.icopy.site/*
+*://*.iitter.com/*
 *://*.it566.top/*
 *://*.itbaoku.cn/*
 *://*.itdaan.com/*
 *://*.itranslater.com/*
+*://*.itread01.com/*
 *://*.its201.com/*
 *://*.its203.com/*
 *://*.its301.com/*
@@ -46,12 +50,16 @@
 *://*.joyk.com/*
 *://*.killsb.com/*
 *://*.learnfk.com/*
+*://*.lgsms.com/*
 *://*.likecs.com/*
 *://*.localcoder.org/*
+*://*.nas-portal.com/*
 *://*.niul.net/*
+*://*.ojit.com/article/*
 *://*.pianshen.com/*
 *://*.programminghunter.com/*
 *://*.pythonmana.com/*
+*://*.sfxytw.com/*
 *://*.shuzhiduo.com/*
 *://*.songbingjia.com/*
 *://*.stackoom.com/*
@@ -67,4 +75,5 @@
 *://*.xyttt.com/*
 *://*.ydbaike.club/*
 *://*.zditect.com/*
+*://*.zhangshengrong.com/*
 *://*.zuofajingyan.com/*
