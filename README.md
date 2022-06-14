@@ -1,4 +1,7 @@
-# uBlacklist规则
-[uBlacklist](https://github.com/iorate/ublacklist)
+# uRules
 
-自用规则，屏蔽搜索引擎搜索结果中的垃圾站点。
+### [Shadowrocket](https://apps.apple.com/app/shadowrocket)
+网络拦截规则，去广告等。
+
+### [uBlacklist](https://github.com/iorate/ublacklist)
+屏蔽搜索引擎搜索结果中的垃圾站点。
