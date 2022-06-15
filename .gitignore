@@ -1,1 +1,4 @@
 scripts/
+temp/
+
+.DS_Store
