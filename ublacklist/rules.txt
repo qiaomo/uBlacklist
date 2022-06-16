@@ -2,7 +2,8 @@
 /.+:\/\/([0,1]?\d{1,2}|2([0-4][0-9]|5[0-5]))(\.([0,1]?\d{1,2}|2([0-4][0-9]|5[0-5]))){3}/
 
 # regex
-/.+:\/\/g\d\d?\.baidu\.com\/s/
+/^https?:\/\/g\d\d?\.baidu\.com\/s/
+/^https?:\/\/.+\/.*\?(|.+[&])(q|s|query)=.+/
 
 # domain
 *://*.1024sou.com/*
@@ -21,6 +22,7 @@
 *://*.air-recon.com/*
 *://*.anlon.com.tw/*
 *://*.aroma-hermes.com/*
+*://*.bajiaoyingshi.com/*
 *://*.bangersandmashme.com/*
 *://*.bbbbbty.com/*
 *://*.bbbbty.com/*
@@ -50,6 +52,7 @@
 *://*.codeleading.com/*
 *://*.codestudyblog.com/*
 *://*.codetd.com/*
+*://*.craffts.com/*
 *://*.cxybb.com/*
 *://*.cxymm.net/*
 *://*.cxyzjd.com/*
@@ -62,6 +65,7 @@
 *://*.dovov.com/*
 *://*.editcode.net/*
 *://*.eliveint.com/*
+*://*.fernandodearguello.cl/*
 *://*.flashgene.com/*
 *://*.franzandshape.com/*
 *://*.fujisandy.com/*
@@ -114,6 +118,7 @@
 *://*.katastros.com/*
 *://*.killsb.com/*
 *://*.ksou.cc/*
+*://*.kushibar.com.tw/*
 *://*.lamigoclub.com.tw/*
 *://*.learnfk.com/*
 *://*.lgsms.com/*
@@ -141,6 +146,7 @@
 *://*.pianshen.com/*
 *://*.programminghunter.com/*
 *://*.pythonmana.com/*
+*://*.q578.com/*
 *://*.qastack.cn/*
 *://*.qqqqty.com/*
 *://*.rubymagazine.net/*
