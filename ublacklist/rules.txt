@@ -12,17 +12,21 @@
 *://*.1r1g.com/*
 *://*.222222ty.com/*
 *://*.333333ty.com/*
+*://*.361shipin.com/*
 *://*.404bugs.com/*
 *://*.4k8k.xyz/*
 *://*.55276.net/*
 *://*.666666ty.com/*
 *://*.796t.com/*
+*://*.8101010108.cn/*
 *://*.95zz88game.com/*
 *://*.999999ty.com/*
 *://*.actorsfit.com/*
 *://*.air-recon.com/*
+*://*.aitechtogether.com/*
 *://*.anlon.com.tw/*
 *://*.aroma-hermes.com/*
+*://*.b00h.com/*
 *://*.bajiaoyingshi.com/*
 *://*.bangersandmashme.com/*
 *://*.bbbbbty.com/*
@@ -53,6 +57,7 @@
 *://*.codeleading.com/*
 *://*.codestudyblog.com/*
 *://*.codetd.com/*
+*://*.copyfuture.com/*
 *://*.craffts.com/*
 *://*.cxybb.com/*
 *://*.cxymm.net/*
@@ -90,6 +95,7 @@
 *://*.instancepress.com/*
 *://*.it102.com/*
 *://*.it566.top/*
+*://*.it610.com/*
 *://*.itbaoku.cn/*
 *://*.itbaozang.com/*
 *://*.itcn.blog/*
@@ -177,6 +183,7 @@
 *://*.xuehua.us/*
 *://*.xuejiao.org/*
 *://*.xyttt.com/*
+*://*.yaowenming.com/*
 *://*.ydbaike.club/*
 *://*.yyyyty.com/*
 *://*.zditect.com/*
