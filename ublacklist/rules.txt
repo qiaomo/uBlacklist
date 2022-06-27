@@ -6,6 +6,7 @@
 /^https?:\/\/.+\/.*\?(|.+[&])(q|s|query)=.+/
 
 # domain
+*://*.0099033.com/*
 *://*.1024sou.com/*
 *://*.1cm8858.com/*
 *://*.1r1g.cn/*
@@ -13,8 +14,10 @@
 *://*.222222ty.com/*
 *://*.333333ty.com/*
 *://*.361shipin.com/*
+*://*.3997025.com/*
 *://*.404bugs.com/*
 *://*.4k8k.xyz/*
+*://*.52sbl.cn/*
 *://*.55276.net/*
 *://*.666666ty.com/*
 *://*.796t.com/*
@@ -41,6 +44,7 @@
 *://*.blog.itpub.net/*
 *://*.bokerb.com/*
 *://*.bynss.com/*
+*://*.c-366.com/*
 *://*.cache.one/*
 *://*.carlalucente.com/*
 *://*.cccccty.com/*
@@ -65,16 +69,21 @@
 *://*.dafuhua.com/*
 *://*.daimajiaoliu.com/*
 *://*.daimazhu.com/*
+*://*.dcep676.com/*
 *://*.ddddty.com/*
 *://*.ddeevv.com/*
+*://*.ddxinwen.com/*
 *://*.debug001.com/*
 *://*.dovov.com/*
 *://*.editcode.net/*
 *://*.eliveint.com/*
+*://*.fdf42.com/*
 *://*.fernandodearguello.cl/*
 *://*.flashgene.com/*
 *://*.franzandshape.com/*
+*://*.friterietuche.fr/*
 *://*.fujisandy.com/*
+*://*.getit01.com/*
 *://*.ggggty.com/*
 *://*.gpd.world/*
 *://*.gxte885.com/*
@@ -131,6 +140,7 @@
 *://*.lgsms.com/*
 *://*.likecs.com/*
 *://*.localcoder.org/*
+*://*.lubangd.com/*
 *://*.lxol.net/*
 *://*.mineclosure2010.com/*
 *://*.mmmmmty.com/*
@@ -147,6 +157,7 @@
 *://*.ogeek.cn/*
 *://*.ojit.com/article/*
 *://*.ostack.cn/*
+*://*.p3yk.com/*
 *://*.parcourscampagnart.com/*
 *://*.pcbank24.com/*
 *://*.phphqc.cc/*
@@ -155,11 +166,13 @@
 *://*.pythonmana.com/*
 *://*.q578.com/*
 *://*.qastack.cn/*
+*://*.qdmana.com/*
 *://*.qqqqty.com/*
 *://*.rubymagazine.net/*
 *://*.sfxytw.com/*
 *://*.shuzhiduo.com/*
 *://*.sieuthi1900.com/*
+*://*.skiyoo.com/*
 *://*.songbingjia.com/*
 *://*.stackoom.com/*
 *://*.string.quest/*
@@ -172,6 +185,7 @@
 *://*.toutiao.com/search*
 *://*.trx016.com/*
 *://*.ttyshi.com/*
+*://*.tuokehj.com/*
 *://*.ultimate-communications.com/*
 *://*.umnc.org/*
 *://*.uo75.com/*
@@ -190,6 +204,7 @@
 *://*.zhangshengrong.com/*
 *://*.zongmeimei.com/*
 *://*.zuofajingyan.com/*
+*://*.zx75551.com/*
 *://*.zzcys.com/*
 *://*.zzzzty.com/*
 *://*.zzzzzty.com/*
