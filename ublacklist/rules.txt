@@ -19,6 +19,7 @@
 *://*.4k8k.xyz/*
 *://*.52sbl.cn/*
 *://*.55276.net/*
+*://*.5772.fun/*
 *://*.666666ty.com/*
 *://*.796t.com/*
 *://*.8101010108.cn/*
@@ -31,6 +32,7 @@
 *://*.aitechtogether.com/*
 *://*.almacensolidario.cl/*
 *://*.amandasonntag.de/*
+*://*.americalibraryimte.ru.com/*
 *://*.anlon.com.tw/*
 *://*.apwce.edu.gh/*
 *://*.aqua-galvanic.de/*
@@ -45,6 +47,7 @@
 *://*.bbsmax.com/*
 *://*.bcxw.net/*
 *://*.beautyhome.tw/*
+*://*.bet10qqmy.web.app/*
 *://*.better-life.com.tw/*
 *://*.bitcoin003.com/*
 *://*.bitcoin09.com/*
@@ -55,6 +58,7 @@
 *://*.c-366.com/*
 *://*.cache.one/*
 *://*.carlalucente.com/*
+*://*.cartidedrept.eu/*
 *://*.cccccty.com/*
 *://*.cdmana.com/*
 *://*.celtrans-przewozy.eu/*
@@ -71,6 +75,7 @@
 *://*.codeleading.com/*
 *://*.codestudyblog.com/*
 *://*.codetd.com/*
+*://*.cookingteam.es/*
 *://*.copyfuture.com/*
 *://*.craffts.com/*
 *://*.cxybb.com/*
@@ -79,6 +84,7 @@
 *://*.dafuhua.com/*
 *://*.daimajiaoliu.com/*
 *://*.daimazhu.com/*
+*://*.dape.cc/*
 *://*.dcep676.com/*
 *://*.ddddty.com/*
 *://*.ddeevv.com/*
@@ -89,10 +95,12 @@
 *://*.editcode.net/*
 *://*.electricforlife.it/*
 *://*.eliveint.com/*
+*://*.euro-asie.fr/*
 *://*.fdf42.com/*
 *://*.fernandodearguello.cl/*
 *://*.flashgene.com/*
 *://*.franzandshape.com/*
+*://*.freeunblockartmje.netlify.app/*
 *://*.friterietuche.fr/*
 *://*.fujisandy.com/*
 *://*.getit01.com/*
@@ -147,6 +155,8 @@
 *://*.joyk.com/*
 *://*.jsh1876.com/*
 *://*.json001.com/*
+*://*.kasinoetdqf.web.app/*
+*://*.kasinogdud.web.app/*
 *://*.katastros.com/*
 *://*.killsb.com/*
 *://*.ksou.cc/*
@@ -164,6 +174,7 @@
 *://*.mineclosure2010.com/*
 *://*.mmmmmty.com/*
 *://*.moregeek.xyz/*
+*://*.moresofts-tw.gb.net/*
 *://*.mtchina.net/*
 *://*.muyejia.com.tw/*
 *://*.nachhilfelinden.de/*
@@ -198,6 +209,7 @@
 *://*.sieuthi1900.com/*
 *://*.skiyoo.com/*
 *://*.songbingjia.com/*
+*://*.sre.pub/*
 *://*.stackoom.com/*
 *://*.string.quest/*
 *://*.superweb999.com/*
@@ -221,6 +233,8 @@
 *://*.wakompserwis.pl/*
 *://*.whcsrl.com/*
 *://*.wujigu.com/*
+*://*.xbto.cc/*
+*://*.xindd.cc/*
 *://*.xinhexinli.com/*
 *://*.xuehua.us/*
 *://*.xuejiao.org/*
@@ -229,6 +243,7 @@
 *://*.ydbaike.club/*
 *://*.yyyyty.com/*
 *://*.zditect.com/*
+*://*.zdjecie-do-dowodu.pl/*
 *://*.zhangshengrong.com/*
 *://*.zongmeimei.com/*
 *://*.zuofajingyan.com/*
