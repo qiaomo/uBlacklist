@@ -43,6 +43,7 @@
 *://*.bangersandmashme.com/*
 *://*.bbbbbty.com/*
 *://*.bbbbty.com/*
+*://*.bbd7.com/*
 *://*.bbs0556.com/*
 *://*.bbsmax.com/*
 *://*.bcxw.net/*
@@ -54,6 +55,7 @@
 *://*.blog.itpub.net/*
 *://*.bokerb.com/*
 *://*.bordeaux1.fr/*
+*://*.buzhidaonicheng.xyz/*
 *://*.bynss.com/*
 *://*.c-366.com/*
 *://*.cache.one/*
@@ -91,12 +93,15 @@
 *://*.ddxinwen.com/*
 *://*.debug001.com/*
 *://*.deschamps-hennebert.fr/*
+*://*.djnecn.com/*
 *://*.dovov.com/*
 *://*.editcode.net/*
 *://*.electricforlife.it/*
 *://*.eliveint.com/*
+*://*.erzet.cc/*
 *://*.euro-asie.fr/*
 *://*.fdf42.com/*
+*://*.fdf44.com/*
 *://*.fernandodearguello.cl/*
 *://*.flashgene.com/*
 *://*.franzandshape.com/*
@@ -159,11 +164,13 @@
 *://*.kasinogdud.web.app/*
 *://*.katastros.com/*
 *://*.killsb.com/*
+*://*.ks-st.com/*
 *://*.ksou.cc/*
 *://*.kushibar.com.tw/*
 *://*.lamigoclub.com.tw/*
 *://*.latapisseriedeslys.fr/*
 *://*.learnfk.com/*
+*://*.lehuotuan.com/*
 *://*.lgsms.com/*
 *://*.likecs.com/*
 *://*.localcoder.org/*
@@ -171,6 +178,7 @@
 *://*.lxol.net/*
 *://*.makrobull.de/*
 *://*.mareike-binder.de/*
+*://*.mca735.com/*
 *://*.mineclosure2010.com/*
 *://*.mmmmmty.com/*
 *://*.moregeek.xyz/*
@@ -205,6 +213,7 @@
 *://*.rubymagazine.net/*
 *://*.scuolaosteopatia-eio.it/*
 *://*.sfxytw.com/*
+*://*.shenmedaquan.com/*
 *://*.shuzhiduo.com/*
 *://*.sieuthi1900.com/*
 *://*.skiyoo.com/*
@@ -214,6 +223,7 @@
 *://*.string.quest/*
 *://*.superweb999.com/*
 *://*.syntaxfix.com/*
+*://*.teklher.com/*
 *://*.tjchuangfeng.com/*
 *://*.tl80.cn/*
 *://*.tongfengqu.com/*
@@ -222,15 +232,18 @@
 *://*.trampolinfm.cl/*
 *://*.trx016.com/*
 *://*.ttyshi.com/*
+*://*.tucaozhiyin.com/*
 *://*.tuokehj.com/*
 *://*.ultimate-communications.com/*
 *://*.umnc.org/*
 *://*.uo75.com/*
 *://*.uto.edu.bo/*
+*://*.uuudoc.com/*
 *://*.vigges.net/*
 *://*.vj04.com/*
 *://*.vxwo.com/*
 *://*.wakompserwis.pl/*
+*://*.wekghi.com/*
 *://*.whcsrl.com/*
 *://*.wujigu.com/*
 *://*.xbto.cc/*
@@ -241,6 +254,7 @@
 *://*.xyttt.com/*
 *://*.yaowenming.com/*
 *://*.ydbaike.club/*
+*://*.yumaitie.com/*
 *://*.yyyyty.com/*
 *://*.zditect.com/*
 *://*.zdjecie-do-dowodu.pl/*
