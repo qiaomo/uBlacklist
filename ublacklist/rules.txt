@@ -80,6 +80,7 @@
 *://*.codetd.com/*
 *://*.cookingteam.es/*
 *://*.copyfuture.com/*
+*://*.cppku.com/*
 *://*.craffts.com/*
 *://*.cxybb.com/*
 *://*.cxymm.net/*
@@ -126,6 +127,7 @@
 *://*.icode.best/*
 *://*.icode9.com/*
 *://*.icopy.site/*
+*://*.igiftidea.com/*
 *://*.iitter.com/*
 *://*.imprenditoriditalia.it/*
 *://*.indiestring.com/*
@@ -224,6 +226,7 @@
 *://*.string.quest/*
 *://*.superweb999.com/*
 *://*.syntaxfix.com/*
+*://*.techiedelight.com/*
 *://*.teklher.com/*
 *://*.tjchuangfeng.com/*
 *://*.tl80.cn/*
