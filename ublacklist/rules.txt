@@ -36,6 +36,7 @@
 *://*.amandasonntag.de/*
 *://*.americalibraryimte.ru.com/*
 *://*.anlon.com.tw/*
+*://*.antimonopolylaw.org/*
 *://*.apwce.edu.gh/*
 *://*.aqua-galvanic.de/*
 *://*.aroma-hermes.com/*
@@ -179,6 +180,7 @@
 *://*.likecs.com/*
 *://*.localcoder.org/*
 *://*.lubangd.com/*
+*://*.luocige.com/*
 *://*.lxol.net/*
 *://*.makrobull.de/*
 *://*.mareike-binder.de/*
@@ -189,6 +191,7 @@
 *://*.moresofts-tw.gb.net/*
 *://*.mtchina.net/*
 *://*.muyejia.com.tw/*
+*://*.muzijie.com/*
 *://*.nachhilfelinden.de/*
 *://*.nas-portal.com/*
 *://*.natural-kingdom.com.tw/*
