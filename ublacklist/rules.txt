@@ -121,6 +121,7 @@
 *://*.electricforlife.it/*
 *://*.eliveint.com/*
 *://*.erzet.cc/*
+*://*.etax1098.com/*
 *://*.euro-asie.fr/*
 *://*.faxdocsvfrofx.ru.com/*
 *://*.fb99778.com/*
