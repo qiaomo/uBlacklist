@@ -33,6 +33,7 @@
 *://*.999999ty.com/*
 *://*.actorsfit.com/*
 *://*.acuolea.xyz/*
+*://*.adoclib.com/*
 *://*.aes-chile.cl/*
 *://*.agricbnk.com/*
 *://*.air-recon.com/*
