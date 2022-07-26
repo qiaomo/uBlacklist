@@ -94,6 +94,7 @@
 *://*.code456.com/*
 *://*.codeantenna.com/*
 *://*.codebye.com/*
+*://*.codegrepper.com/*
 *://*.codeleading.com/*
 *://*.codestudyblog.com/*
 *://*.codetd.com/*
@@ -171,6 +172,7 @@
 *://*.itbook5.com/*
 *://*.itcn.blog/*
 *://*.itdaan.com/*
+*://*.itecnote.com/*
 *://*.iter01.com/*
 *://*.itermail.com/*
 *://*.itranslater.com/*
@@ -183,6 +185,7 @@
 *://*.its404.com/*
 *://*.ittone.ma/*
 *://*.itxueyuan.com/*
+*://*.ixigua.com/search*
 *://*.java366.com/*
 *://*.javamana.com/*
 *://*.javashuo.com/*
