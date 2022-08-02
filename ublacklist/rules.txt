@@ -77,6 +77,7 @@
 *://*.bordeaux1.fr/*
 *://*.buzhidaonicheng.xyz/*
 *://*.bynss.com/*
+*://*.byvanieat.eu/*
 *://*.c-366.com/*
 *://*.cache.one/*
 *://*.carlalucente.com/*
@@ -120,6 +121,7 @@
 *://*.djnecn.com/*
 *://*.dounaite.com/*
 *://*.dovov.com/*
+*://*.dr-dom.com/*
 *://*.editcode.net/*
 *://*.electricforlife.it/*
 *://*.eliveint.com/*
