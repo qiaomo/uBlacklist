@@ -243,6 +243,7 @@
 *://*.newsdocslulwng.ru.com/*
 *://*.newsfileszcmpzm.ru.com/*
 *://*.newssoftsuicvr.sa.com/*
+*://*.niaoleiba.com/*
 *://*.niul.net/*
 *://*.nnnnnty.com/*
 *://*.nnnnty.com/*
@@ -312,9 +313,11 @@
 *://*.vj04.com/*
 *://*.vxwo.com/*
 *://*.wakompserwis.pl/*
+*://*.wanweibaike.net/*
 *://*.wekghi.com/*
 *://*.weterynarzkonin.pl/*
 *://*.whcsrl.com/*
+*://*.wikiwand.com/*
 *://*.wqzx.cc/*
 *://*.wujigu.com/*
 *://*.xbto.cc/*
@@ -331,6 +334,7 @@
 *://*.zditect.com/*
 *://*.zdjecie-do-dowodu.pl/*
 *://*.zhangshengrong.com/*
+*://*.zhihu.com/pub/*
 *://*.zongmeimei.com/*
 *://*.zuofajingyan.com/*
 *://*.zx75551.com/*
