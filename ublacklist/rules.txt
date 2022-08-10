@@ -88,6 +88,7 @@
 *://*.chowdera.com/*
 *://*.ciekawesciezki.pl/*
 *://*.cityofbremond.com/*
+*://*.clickecommerce.com.au/*
 *://*.clinicasana-t.es/*
 *://*.cloviastudio.net/*
 *://*.cnpython.com/*
@@ -98,6 +99,7 @@
 *://*.codebye.com/*
 *://*.codegrepper.com/*
 *://*.codeleading.com/*
+*://*.coder100.com/*
 *://*.codestudyblog.com/*
 *://*.codetd.com/*
 *://*.cookingteam.es/*
@@ -105,6 +107,7 @@
 *://*.cppku.com/*
 *://*.craffts.com/*
 *://*.crestiad.com/*
+*://*.css8.cn/*
 *://*.cxybb.com/*
 *://*.cxymm.net/*
 *://*.cxyzjd.com/*
@@ -117,6 +120,7 @@
 *://*.ddeevv.com/*
 *://*.ddxinwen.com/*
 *://*.debug001.com/*
+*://*.debugease.com/*
 *://*.deschamps-hennebert.fr/*
 *://*.djnecn.com/*
 *://*.dounaite.com/*
@@ -135,17 +139,20 @@
 *://*.fdf44.com/*
 *://*.fdf48.com/*
 *://*.fernandodearguello.cl/*
+*://*.fishkit.shop/*
 *://*.flashgene.com/*
 *://*.franzandshape.com/*
 *://*.freeunblockartmje.netlify.app/*
 *://*.friterietuche.fr/*
 *://*.fujisandy.com/*
+*://*.geek-share.com/*
 *://*.getit01.com/*
 *://*.ggggty.com/*
 *://*.global-7.xyz/*
 *://*.gpd.world/*
 *://*.gxte885.com/*
 *://*.gz766.cc/*
+*://*.healthyhero.us/*
 *://*.heydocsksusemp.za.com/*
 *://*.hongdi.com.tw/*
 *://*.hongloumengs.cn/*
@@ -162,6 +169,7 @@
 *://*.icopy.site/*
 *://*.igiftidea.com/*
 *://*.iitter.com/*
+*://*.ilo-printing.com/*
 *://*.imprenditoriditalia.it/*
 *://*.indiestring.com/*
 *://*.infinitemediaworks.com/*
@@ -197,6 +205,7 @@
 *://*.jdlpi.com/*
 *://*.jianboge.com/*
 *://*.jike.in/*
+*://*.jimenaprofesional.es/*
 *://*.jjjjjty.com/*
 *://*.jjjjty.com/*
 *://*.jonic.cn/*
@@ -255,6 +264,7 @@
 *://*.ojit.com/article/*
 *://*.openiotalk.com/*
 *://*.ostack.cn/*
+*://*.ostroda-ubezpieczenia.pl/*
 *://*.p3yk.com/*
 *://*.parcourscampagnart.com/*
 *://*.pcbank24.com/*
@@ -264,6 +274,7 @@
 *://*.postler-schwarzweiss.de/*
 *://*.programminghunter.com/*
 *://*.pttk.cc/*
+*://*.pult-autocolor.de/*
 *://*.pythonmana.com/*
 *://*.q578.com/*
 *://*.qastack.cn/*
@@ -271,9 +282,11 @@
 *://*.qqqqty.com/*
 *://*.radawka-apartamenty.pl/*
 *://*.radiotricahues.cl/*
+*://*.reetperle-borgsum.de/*
 *://*.restaurant-les-oliviers.fr/*
 *://*.romania-bulgaria-jobs.eu/*
 *://*.rongyidagl.com/*
+*://*.roth-motoo.de/*
 *://*.rubymagazine.net/*
 *://*.scificonduit.com/*
 *://*.scuolaosteopatia-eio.it/*
@@ -327,8 +340,10 @@
 *://*.xuehua.us/*
 *://*.xuejiao.org/*
 *://*.xyttt.com/*
+*://*.xz577.com/*
 *://*.yaowenming.com/*
 *://*.ydbaike.club/*
+*://*.yingtwo.com/article/*
 *://*.yumaitie.com/*
 *://*.yyyyty.com/*
 *://*.zditect.com/*
