@@ -160,6 +160,7 @@
 *://*.hostinggrizzly.com/*
 *://*.hotkar.cl/*
 *://*.howtoip.com/*
+*://*.html.cn/search/*
 *://*.htsjk.com/*
 *://*.hunanxiaochi.com/*
 *://*.hvv-engelskirchen.de/*
