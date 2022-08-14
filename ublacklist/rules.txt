@@ -8,6 +8,7 @@
 # domain
 *://*.0099033.com/*
 *://*.1024sou.com/*
+*://*.1377003.com/*
 *://*.169it.com/*
 *://*.1cm8858.com/*
 *://*.1r1g.cn/*
@@ -18,8 +19,10 @@
 *://*.360ai.org/*
 *://*.361shipin.com/*
 *://*.365seal.com/*
+*://*.3955017.com/*
 *://*.3997025.com/*
 *://*.404bugs.com/*
+*://*.433.hk/*
 *://*.4k8k.xyz/*
 *://*.52sbl.cn/*
 *://*.55276.net/*
@@ -27,7 +30,10 @@
 *://*.5772.fun/*
 *://*.5axxw.com/*
 *://*.5ityx.com/*
+*://*.6532066.com/*
 *://*.666666ty.com/*
+*://*.7117113.com/*
+*://*.7200500.com/*
 *://*.796t.com/*
 *://*.8101010108.cn/*
 *://*.95zz88game.com/*
@@ -63,6 +69,7 @@
 *://*.bbd7.com/*
 *://*.bbs0556.com/*
 *://*.bbsmax.com/*
+*://*.bbsou.cc/*
 *://*.bcxw.net/*
 *://*.beauty-salon-letoile.eu/*
 *://*.beautyhome.tw/*
@@ -81,6 +88,7 @@
 *://*.c-366.com/*
 *://*.cache.one/*
 *://*.carlalucente.com/*
+*://*.carptrix.com/*
 *://*.cartidedrept.eu/*
 *://*.cccccty.com/*
 *://*.cdmana.com/*
@@ -112,6 +120,7 @@
 *://*.cxymm.net/*
 *://*.cxyzjd.com/*
 *://*.dafuhua.com/*
+*://*.dahuazixun.site/*
 *://*.daimajiaoliu.com/*
 *://*.daimazhu.com/*
 *://*.dape.cc/*
@@ -135,9 +144,13 @@
 *://*.faxdocsvfrofx.ru.com/*
 *://*.fb99778.com/*
 *://*.fcdems.org/*
+*://*.fdf28.com/*
+*://*.fdf36.com/*
 *://*.fdf42.com/*
+*://*.fdf43.com/*
 *://*.fdf44.com/*
 *://*.fdf48.com/*
+*://*.fdf57.com/*
 *://*.fernandodearguello.cl/*
 *://*.fishkit.shop/*
 *://*.flashgene.com/*
@@ -253,6 +266,7 @@
 *://*.newsdocslulwng.ru.com/*
 *://*.newsfileszcmpzm.ru.com/*
 *://*.newssoftsuicvr.sa.com/*
+*://*.nfrmate.com/*
 *://*.niaoleiba.com/*
 *://*.niul.net/*
 *://*.nnnnnty.com/*
@@ -332,6 +346,7 @@
 *://*.weterynarzkonin.pl/*
 *://*.whcsrl.com/*
 *://*.wikiwand.com/*
+*://*.wlyqimo.com/*
 *://*.wqzx.cc/*
 *://*.wujigu.com/*
 *://*.xbto.cc/*
