@@ -211,6 +211,7 @@
 *://*.notthearchies.com/*
 *://*.nz998.com/*
 *://*.ojit.com/article/*
+*://*.onsgs.com/*
 *://*.openiotalk.com/*
 *://*.p3yk.com/*
 *://*.parcourscampagnart.com/*
