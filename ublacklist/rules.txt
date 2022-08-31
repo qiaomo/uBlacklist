@@ -786,4 +786,3 @@
 *://*.moregeek.xyz/*
 *://*.heydocsksusemp.za.com/*
 *://*.privacyfjlvv.za.com/*
------------------
