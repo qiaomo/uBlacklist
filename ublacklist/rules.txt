@@ -58,6 +58,7 @@
 *://*.361shipin.com/*
 *://*.365seal.com/*
 *://*.3955017.com/*
+*://*.3990771.com/*
 *://*.3997025.com/*
 *://*.404bugs.com/*
 *://*.5712001.com/*
@@ -98,6 +99,7 @@
 *://*.carptrix.com/*
 *://*.cccccty.com/*
 *://*.cdmana.com/*
+*://*.chezmamanrouen.com/*
 *://*.chowdera.com/*
 *://*.cityofbremond.com/*
 *://*.cnpython.com/*
@@ -118,6 +120,7 @@
 *://*.cxyzjd.com/*
 *://*.dafuhua.com/*
 *://*.daimajiaoliu.com/*
+*://*.daimaqa.com/*
 *://*.daimazhu.com/*
 *://*.dcep676.com/*
 *://*.ddddty.com/*
@@ -143,6 +146,7 @@
 *://*.flashgene.com/*
 *://*.franzandshape.com/*
 *://*.fujisandy.com/*
+*://*.ganjuzi.com/*
 *://*.geek-share.com/*
 *://*.getit01.com/*
 *://*.ggggty.com/*
@@ -773,6 +777,7 @@
 *://*.xuehua.us/*
 *://*.yangwarren.us/*
 *://*.bet10qqmy.web.app/*
+*://*.bettilsiqno.web.app/*
 *://*.kasinoetdqf.web.app/*
 *://*.kasinogdud.web.app/*
 *://*.usenetkoil.web.app/*
