@@ -4,7 +4,7 @@
 # regex
 /^https?:\/\/g\d\d?\.baidu\.com\/s/
 /^https?:\/\/.+\/.*\?(|.+[&])(q|s|query)=.+/
-/^https?:\/\/(.*\.)?[-a-zA-Z0-9]{8,}\.(com\.br|de|it|nl|pl|ru|shop|us)/
+/^https?:\/\/(.*\.)?[-a-zA-Z0-9]{8,}\.(com\.br|de|es|it|netlify\.app|nl|pl|ru|shop|us|web\.app)/
 
 # domain
 *://*.icode.best/*
@@ -101,6 +101,7 @@
 *://*.cdmana.com/*
 *://*.chezmamanrouen.com/*
 *://*.chowdera.com/*
+*://*.chronicsbooks.com/*
 *://*.cityofbremond.com/*
 *://*.cnpython.com/*
 *://*.code05.com/*
@@ -151,6 +152,7 @@
 *://*.getit01.com/*
 *://*.ggggty.com/*
 *://*.gxte885.com/*
+*://*.hekaltwins.com/*
 *://*.hostinggrizzly.com/*
 *://*.howtoip.com/*
 *://*.htsjk.com/*
@@ -161,6 +163,7 @@
 *://*.ilo-printing.com/*
 *://*.indiestring.com/*
 *://*.infinitemediaworks.com/*
+*://*.inibepowergo.com/*
 *://*.instancepress.com/*
 *://*.isellglobal.com/*
 *://*.it102.com/*
@@ -194,11 +197,13 @@
 *://*.json001.com/*
 *://*.katastros.com/*
 *://*.killsb.com/*
+*://*.klocsolutions.com/*
 *://*.ks-st.com/*
 *://*.learnfk.com/*
 *://*.lehuotuan.com/*
 *://*.lgsms.com/*
 *://*.likecs.com/*
+*://*.livewell.com.pk/*
 *://*.lovelycxy.com/*
 *://*.lubangd.com/*
 *://*.luocige.com/*
@@ -220,9 +225,11 @@
 *://*.onsgs.com/*
 *://*.openiotalk.com/*
 *://*.p3yk.com/*
+*://*.padmaacademy.com/*
 *://*.parcourscampagnart.com/*
 *://*.pcbank24.com/*
 *://*.pianshen.com/*
+*://*.printly-sa.com/*
 *://*.programminghunter.com/*
 *://*.pythonheidong.com/*
 *://*.pythonmana.com/*
@@ -230,6 +237,7 @@
 *://*.qdmana.com/*
 *://*.qqqqty.com/*
 *://*.rongyidagl.com/*
+*://*.sandrascleanings.com/*
 *://*.scificonduit.com/*
 *://*.sfxytw.com/*
 *://*.shenmedaquan.com/*
@@ -256,6 +264,7 @@
 *://*.uo75.com/*
 *://*.urbanvisioninc.com/*
 *://*.uuudoc.com/*
+*://*.vietnamtuyendung.com/*
 *://*.vj04.com/*
 *://*.vxwo.com/*
 *://*.wekghi.com/*
@@ -298,6 +307,7 @@
 *://*.03-kebaphaus-muenchen.de/*
 *://*.alt-mettlach.de/*
 *://*.amandasonntag.de/*
+*://*.amensa.de/*
 *://*.antonius-apotheke-ibbenbueren.de/*
 *://*.aqua-galvanic.de/*
 *://*.benoda.de/*
@@ -320,6 +330,7 @@
 *://*.freundeskreis-ballettmagdeburg.de/*
 *://*.garten-mg.de/*
 *://*.glutenfree-joy.de/*
+*://*.gundem.de/*
 *://*.gyal-majors-havaneser.de/*
 *://*.halbert-fohrmann-gbr.de/*
 *://*.hamsterrettung.de/*
@@ -340,7 +351,9 @@
 *://*.marketing-kings.de/*
 *://*.martinapflughaupt.de/*
 *://*.maxpassageaugsburg.de/*
+*://*.maylana.de/*
 *://*.mein-beautyportal.de/*
+*://*.mymaras.de/*
 *://*.nachhilfelinden.de/*
 *://*.naehx.de/*
 *://*.nlp-ostsee.de/*
@@ -425,6 +438,7 @@
 *://*.login.gr.it/*
 *://*.ilcolonirritabile.it/*
 *://*.imprenditoriditalia.it/*
+*://*.isteal.it/*
 *://*.kiwanisclubperugia.it/*
 *://*.agenzie.lazio.it/*
 *://*.confael.lazio.it/*
@@ -506,6 +520,7 @@
 *://*.enmk.nl/*
 *://*.esoccerchamp.nl/*
 *://*.essentialsbycatharine.nl/*
+*://*.fitsup.nl/*
 *://*.itgrows.nl/*
 *://*.kookgod.nl/*
 *://*.koppelmanvastgoedverhuur.nl/*
@@ -517,6 +532,7 @@
 *://*.mikacarcleaning.nl/*
 *://*.mstrfood.nl/*
 *://*.olecostatropical.nl/*
+*://*.olicis.nl/*
 *://*.pieterdeboercopiers.nl/*
 *://*.pleardopkes.nl/*
 *://*.route66band.nl/*
@@ -525,7 +541,9 @@
 *://*.theovrugt.nl/*
 *://*.trendyglazen.nl/*
 *://*.tuz-shop.nl/*
+*://*.v-n-o.nl/*
 *://*.webhostking.nl/*
+*://*.wetbike.nl/*
 *://*.wonenaandepeppelweg.nl/*
 *://*.woonaccessoiresstore.nl/*
 *://*.cache.one/*
@@ -534,6 +552,7 @@
 *://*.fcdems.org/*
 *://*.localcoder.org/*
 *://*.mississippifaithinaction.org/*
+*://*.tk2s.org/*
 *://*.umnc.org/*
 *://*.xuejiao.org/*
 *://*.5procent.pl/*
@@ -555,6 +574,7 @@
 *://*.avantimeble.pl/*
 *://*.badanie-eos.pl/*
 *://*.ber-travel.pl/*
+*://*.bmgang.pl/*
 *://*.boekzaken.pl/*
 *://*.brodadesign.pl/*
 *://*.broders.pl/*
@@ -597,6 +617,7 @@
 *://*.iziaja.pl/*
 *://*.jan-zielinski.pl/*
 *://*.kamilbachorz.pl/*
+*://*.karspy.pl/*
 *://*.kaszubykania.pl/*
 *://*.katcom.pl/*
 *://*.kcow.pl/*
@@ -665,6 +686,7 @@
 *://*.szkolalidera.pl/*
 *://*.teamtotalpro.pl/*
 *://*.tortownicajagoda.pl/*
+*://*.tunell.pl/*
 *://*.tvvsloven.pl/*
 *://*.twojfutrzak.pl/*
 *://*.ultrandtpa.pl/*
@@ -700,6 +722,7 @@
 *://*.megafilesqhxty.sa.com/*
 *://*.networkfilesgpdwddb.sa.com/*
 *://*.newssoftsuicvr.sa.com/*
+*://*.sman1bdg.sch.id/*
 *://*.abliga.shop/*
 *://*.alfamall.shop/*
 *://*.arrowroot.shop/*
@@ -712,12 +735,14 @@
 *://*.busi-ness.shop/*
 *://*.cheerylook.shop/*
 *://*.cornersto.shop/*
+*://*.cubeco.shop/*
 *://*.cutearth.shop/*
 *://*.evachic.shop/*
 *://*.everlastingscents.shop/*
 *://*.finebracelets.shop/*
 *://*.fishkit.shop/*
 *://*.funnyfishing.shop/*
+*://*.funnysa.shop/*
 *://*.furballs.shop/*
 *://*.furnituretonew.shop/*
 *://*.getfishing.shop/*
@@ -725,11 +750,13 @@
 *://*.goodbangle.shop/*
 *://*.handcraftedsupply.shop/*
 *://*.iottr.shop/*
+*://*.jullia.shop/*
 *://*.likebangle.shop/*
 *://*.livedue.shop/*
 *://*.lovebangle.shop/*
 *://*.lovebracelets.shop/*
 *://*.luciddetailing.shop/*
+*://*.maroce.shop/*
 *://*.mebaby.shop/*
 *://*.mehrbrett.shop/*
 *://*.merch-tent.shop/*
@@ -758,8 +785,14 @@
 *://*.vestcode.shop/*
 *://*.whiteaid.shop/*
 *://*.wowfinity.shop/*
+*://*.ar-mangoodstore.site/*
+*://*.bosve.site/*
+*://*.cmgdev.site/*
 *://*.dahuazixun.site/*
 *://*.icopy.site/*
+*://*.sivoe.site/*
+*://*.mx2g.space/*
+*://*.imagineering.studio/*
 *://*.it566.top/*
 *://*.beautyhome.tw/*
 *://*.americanlogisticsshippingservice.us/*
@@ -784,6 +817,7 @@
 *://*.gpd.world/*
 *://*.4k8k.xyz/*
 *://*.acuolea.xyz/*
+*://*.ahinamartinvestment.xyz/*
 *://*.buzhidaonicheng.xyz/*
 *://*.global-7.xyz/*
 *://*.herbswayng.xyz/*
