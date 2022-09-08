@@ -143,6 +143,7 @@
 *://*.fdf43.com/*
 *://*.fdf44.com/*
 *://*.fdf48.com/*
+*://*.fdf55.com/*
 *://*.fdf57.com/*
 *://*.flashgene.com/*
 *://*.franzandshape.com/*
@@ -221,6 +222,7 @@
 *://*.noobyard.com/*
 *://*.notthearchies.com/*
 *://*.nz998.com/*
+*://*.o2ojs.com/*
 *://*.ojit.com/article/*
 *://*.onsgs.com/*
 *://*.openiotalk.com/*
