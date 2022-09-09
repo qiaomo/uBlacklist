@@ -4,7 +4,7 @@
 # regex
 /^https?:\/\/g\d\d?\.baidu\.com\/s/
 /^https?:\/\/.+\/.*\?(|.+[&])(q|s|query)=.+/
-/^https?:\/\/(.*\.)?[-a-zA-Z0-9]{8,}\.(com\.br|de|es|it|netlify\.app|nl|pl|ru|shop|us|web\.app)/
+/^https?:\/\/(.*\.)?[-a-zA-Z0-9]{8,}\.(com\.br|de|es|it|netlify\.app|nl|pl|ru|shop|si|us|web\.app)/
 
 # domain
 *://*.icode.best/*
@@ -82,6 +82,7 @@
 *://*.baidu.com/sf/vsearch*
 *://*.bajiaoyingshi.com/*
 *://*.bangersandmashme.com/*
+*://*.bashlad.com/*
 *://*.bbbbbty.com/*
 *://*.bbbbty.com/*
 *://*.bbd7.com/*
@@ -196,6 +197,7 @@
 *://*.joyk.com/*
 *://*.jsh1876.com/*
 *://*.json001.com/*
+*://*.kamarena.com/*
 *://*.katastros.com/*
 *://*.killsb.com/*
 *://*.klocsolutions.com/*
@@ -212,6 +214,7 @@
 *://*.mca735.com/*
 *://*.mineclosure2010.com/*
 *://*.mmmmmty.com/*
+*://*.momosreservations.com/*
 *://*.mscto.com/*
 *://*.muzijie.com/*
 *://*.nas-portal.com/*
@@ -283,6 +286,7 @@
 *://*.yumaitie.com/*
 *://*.yyyyty.com/*
 *://*.zditect.com/*
+*://*.zendsoft.com/*
 *://*.zhangshengrong.com/*
 *://*.zhihu.com/pub/*
 *://*.zongmeimei.com/*
@@ -291,12 +295,14 @@
 *://*.zzcys.com/*
 *://*.zzzzty.com/*
 *://*.zzzzzty.com/*
+*://*.ondule.com.ar/*
 *://*.clickecommerce.com.au/*
 *://*.hsceco.com.au/*
 *://*.karaokesp.com.br/*
 *://*.elnagh.com.pl/*
 *://*.minty.com.pl/*
 *://*.pabian.com.pl/*
+*://*.kyb.com.sg/*
 *://*.platan.com.tr/*
 *://*.anlon.com.tw/*
 *://*.better-life.com.tw/*
@@ -323,6 +329,7 @@
 *://*.dinni-und-dennis.de/*
 *://*.divino-24.de/*
 *://*.dream-beatz-radio.de/*
+*://*.eej-net.de/*
 *://*.ein-marktplatz.de/*
 *://*.elke-caesar.de/*
 *://*.emt-entertainment.de/*
@@ -421,13 +428,16 @@
 *://*.rapidparebrise-quimper.fr/*
 *://*.restaurant-les-oliviers.fr/*
 *://*.5772.fun/*
+*://*.probolinggokab.go.id/*
 *://*.433.hk/*
 *://*.jike.in/*
 *://*.tousu.in/*
+*://*.waterandclimate.info/*
 *://*.battis.ir/*
 *://*.blog.itpub.net/*
 *://*.aspic.bologna.it/*
 *://*.consulenzadellavoro.bologna.it/*
+*://*.enoteca.bologna.it/*
 *://*.immobiliarecatania.catania.it/*
 *://*.dgvtrasporti.it/*
 *://*.domuspersona.it/*
@@ -437,6 +447,7 @@
 *://*.bdt.fvg.it/*
 *://*.comuni.fvg.it/*
 *://*.tophouse.fvg.it/*
+*://*.taekwondo.genova.it/*
 *://*.login.gr.it/*
 *://*.ilcolonirritabile.it/*
 *://*.imprenditoriditalia.it/*
@@ -452,6 +463,7 @@
 *://*.montecity.mi.it/*
 *://*.arredamentinapoli.na.it/*
 *://*.medicooculista.napoli.it/*
+*://*.trasportifunebri.napoli.it/*
 *://*.sna.palermo.it/*
 *://*.venditacase.perugia.it/*
 *://*.villetteaschiera.perugia.it/*
@@ -467,6 +479,7 @@
 *://*.bluservice.terni.it/*
 *://*.emergenzaidraulico.torino.it/*
 *://*.manutenzioneimpiantiidraulici.torino.it/*
+*://*.matrimonio.torino.it/*
 *://*.riparazioneidraulico.torino.it/*
 *://*.bandi.toscana.it/*
 *://*.certificazioni.toscana.it/*
@@ -476,6 +489,7 @@
 *://*.discover.vda.it/*
 *://*.elfilo.veneto.it/*
 *://*.foav.veneto.it/*
+*://*.villadaschio.veneto.it/*
 *://*.made.verona.it/*
 *://*.mondo.vi.it/*
 *://*.really.vr.it/*
@@ -548,7 +562,9 @@
 *://*.wetbike.nl/*
 *://*.wonenaandepeppelweg.nl/*
 *://*.woonaccessoiresstore.nl/*
+*://*.brahus.no/*
 *://*.cache.one/*
+*://*.maximcrystal.online/*
 *://*.360ai.org/*
 *://*.antimonopolylaw.org/*
 *://*.fcdems.org/*
@@ -603,6 +619,7 @@
 *://*.emdo-druk.pl/*
 *://*.epoaksy.pl/*
 *://*.esisto.pl/*
+*://*.fb21.pl/*
 *://*.forhunt.pl/*
 *://*.galeriatradycja.pl/*
 *://*.gdziewartobywac.pl/*
@@ -698,6 +715,7 @@
 *://*.vitalhaskap.pl/*
 *://*.wakacyjnybus.pl/*
 *://*.wakompserwis.pl/*
+*://*.walaba.pl/*
 *://*.architektoniczne.waw.pl/*
 *://*.webadvert.pl/*
 *://*.weterynarzkonin.pl/*
@@ -792,9 +810,11 @@
 *://*.cmgdev.site/*
 *://*.dahuazixun.site/*
 *://*.icopy.site/*
+*://*.joblanc.site/*
 *://*.sivoe.site/*
 *://*.mx2g.space/*
 *://*.imagineering.studio/*
+*://*.imanow.tech/*
 *://*.it566.top/*
 *://*.beautyhome.tw/*
 *://*.americanlogisticsshippingservice.us/*
@@ -817,6 +837,7 @@
 *://*.kasinogdud.web.app/*
 *://*.usenetkoil.web.app/*
 *://*.gpd.world/*
+*://*.camera.xn--6frz82g/*
 *://*.4k8k.xyz/*
 *://*.acuolea.xyz/*
 *://*.ahinamartinvestment.xyz/*
@@ -824,6 +845,7 @@
 *://*.global-7.xyz/*
 *://*.herbswayng.xyz/*
 *://*.i4k.xyz/*
+*://*.kingscoffee.xyz/*
 *://*.moregeek.xyz/*
 *://*.heydocsksusemp.za.com/*
 *://*.privacyfjlvv.za.com/*
