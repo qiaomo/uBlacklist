@@ -4,7 +4,7 @@
 # regex
 /^https?:\/\/g\d\d?\.baidu\.com\/s/
 /^https?:\/\/.+\/.*\?(|.+[&])(q|s|query)=.+/
-/^https?:\/\/(.*\.)?[-a-zA-Z0-9]{8,}\.(com\.br|de|es|it|netlify\.app|nl|pl|ru|shop|si|us|web\.app)/
+#/^https?:\/\/(.*\.)?[-a-zA-Z0-9]{8,}\.(com\.br|de|es|it|netlify\.app|nl|pl|ru|shop|si|us|web\.app)/
 
 # domain
 *://*.icode.best/*
@@ -36,7 +36,9 @@
 *://*.hongloumengs.cn/*
 *://*.html.cn/search/*
 *://*.itbaoku.cn/*
+*://*.jcdi.cn/*
 *://*.jonic.cn/*
+*://*.juejin.cn/s/*
 *://*.ogeek.cn/*
 *://*.ostack.cn/*
 *://*.qastack.cn/*
@@ -70,12 +72,14 @@
 *://*.7200500.com/*
 *://*.796t.com/*
 *://*.95zz88game.com/*
+*://*.985ys.com/*
 *://*.999999ty.com/*
 *://*.actorsfit.com/*
 *://*.adoclib.com/*
 *://*.agricbnk.com/*
 *://*.air-recon.com/*
 *://*.aitechtogether.com/*
+*://*.anycodings.com/*
 *://*.ape-ask.com/*
 *://*.aroma-hermes.com/*
 *://*.b00h.com/*
@@ -111,6 +115,7 @@
 *://*.codebye.com/*
 *://*.codegrepper.com/*
 *://*.codeleading.com/*
+*://*.codenong.com/*
 *://*.coder100.com/*
 *://*.codestudyblog.com/*
 *://*.codetd.com/*
@@ -136,6 +141,9 @@
 *://*.dr-dom.com/*
 *://*.eliveint.com/*
 *://*.etax1098.com/*
+*://*.exchangetuts.com/*
+*://*.extutorial.com/*
+*://*.f2er.com/*
 *://*.fb99778.com/*
 *://*.fdf26.com/*
 *://*.fdf28.com/*
@@ -155,9 +163,11 @@
 *://*.ggggty.com/*
 *://*.gxte885.com/*
 *://*.hekaltwins.com/*
+*://*.hesudu.com/*
 *://*.hostinggrizzly.com/*
 *://*.howtoip.com/*
 *://*.htsjk.com/*
+*://*.hubwiz.com/*
 *://*.hunanxiaochi.com/*
 *://*.icode9.com/*
 *://*.igiftidea.com/*
@@ -234,6 +244,7 @@
 *://*.parcourscampagnart.com/*
 *://*.pcbank24.com/*
 *://*.pianshen.com/*
+*://*.pop3displays.com/*
 *://*.printly-sa.com/*
 *://*.programminghunter.com/*
 *://*.pythonheidong.com/*
@@ -257,7 +268,10 @@
 *://*.syntaxfix.com/*
 *://*.teamramgold.com/*
 *://*.techiedelight.com/*
+*://*.tee25.com/*
 *://*.teklher.com/*
+*://*.thh5.com/*
+*://*.thinbug.com/*
 *://*.tjchuangfeng.com/*
 *://*.tongfengqu.com/*
 *://*.toutiao.com/search*
@@ -274,6 +288,7 @@
 *://*.vxwo.com/*
 *://*.wekghi.com/*
 *://*.whcsrl.com/*
+*://*.whldl.com/*
 *://*.wikiwand.com/*
 *://*.wlyqimo.com/*
 *://*.wujigu.com/*
@@ -431,6 +446,7 @@
 *://*.probolinggokab.go.id/*
 *://*.433.hk/*
 *://*.jike.in/*
+*://*.sqlite.in/*
 *://*.tousu.in/*
 *://*.waterandclimate.info/*
 *://*.battis.ir/*
@@ -508,6 +524,7 @@
 *://*.lxol.net/*
 *://*.mtchina.net/*
 *://*.niul.net/*
+*://*.oschina.net/informat/*
 *://*.rubymagazine.net/*
 *://*.vigges.net/*
 *://*.wanweibaike.net/*
