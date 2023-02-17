@@ -1,6 +1,7 @@
 .cache/
 config
-scripts/
 temp/
+
+/scripts/
 
 .DS_Store
