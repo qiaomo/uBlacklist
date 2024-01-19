@@ -114,6 +114,7 @@
 *://*.cccccty.com/*
 *://*.cdmana.com/*
 *://*.chezmamanrouen.com/*
+*://*.chinaz.com/*
 *://*.chowdera.com/*
 *://*.chronicsbooks.com/*
 *://*.cityofbremond.com/*
@@ -146,8 +147,10 @@
 *://*.debugease.com/*
 *://*.djnecn.com/*
 *://*.dounaite.com/*
+*://*.douyin.com/*
 *://*.dovov.com/*
 *://*.dr-dom.com/*
+*://*.eaglesterling.com/*
 *://*.eliveint.com/*
 *://*.etax1098.com/*
 *://*.exchangetuts.com/*
@@ -298,6 +301,7 @@
 *://*.uuudoc.com/*
 *://*.vietnamtuyendung.com/*
 *://*.vj04.com/*
+*://*.volcengine.com/*
 *://*.vxwo.com/*
 *://*.wekghi.com/*
 *://*.whcsrl.com/*
